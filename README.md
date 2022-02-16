@@ -3,7 +3,7 @@
 * I have made an ChatBot application using RetrofitAPI and BrainShop AI
 
 ## Features in the application
-> Bot reply your answer's
+> Chat robot helping people as an assistant
 
 ## Download APK from here
 > [APP](https://github.com/harshitmody72/ChatBot/blob/master/app/app-debug.apk?raw=true)
