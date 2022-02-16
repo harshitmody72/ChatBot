@@ -22,7 +22,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter Message"
+            android:hint="@string/enter_message"
             android:textColorHint="@color/white"
             android:id="@+id/idEdtMessage"
             android:layout_margin="3dp"
