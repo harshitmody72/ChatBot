@@ -1,6 +1,6 @@
 # ChatBot
 
-* I have made an ChatBot application using RetrofitAPI and BrainShop AI
+* ChatBot application using RetrofitAPI and BrainShop AI
 
 ## Features in the application
 > Chat robot helping people as an assistant
